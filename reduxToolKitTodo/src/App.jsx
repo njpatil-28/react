@@ -2,7 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-import Addtodo from './components/addtodo.jsx'
+import Addtodo from './components/Addtodo.jsx'
 import Todos from './components/Todos.jsx'
 import { Provider } from 'react-redux'
 import { store } from './app/store.js'  
